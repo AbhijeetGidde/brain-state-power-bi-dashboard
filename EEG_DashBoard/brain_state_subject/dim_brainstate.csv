@@ -1,0 +1,4 @@
+StateID,StateName,Description
+1,Relaxed,"High alpha, low beta"
+2,Focused,"High beta, moderate gamma"
+3,Stressed,"High beta and gamma, low alpha"
